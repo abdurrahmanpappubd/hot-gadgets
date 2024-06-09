@@ -1,0 +1,11 @@
+.background1{
+    background-image: url("images/bg-1.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.background2{
+    background-image: url("images/bg-2.png");
+    height: 800px;
+    background-repeat: no-repeat;
+}
